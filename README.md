@@ -212,7 +212,7 @@ For collaboration or licensing, contact:
 *Data Scientist • AI Systems Engineer • Automation Specialist*
 
 * GitHub: [Tblqck](https://github.com/Tblqck)
-* Telegram: [@TBlackAI](https://t.me/TBlackAI)
+* Telegram: [@TBlackAI](@darcxe)
 * Email: [Hansonabasiekeme2@gmail.com](mailto:Hansonabasiekeme2@gmail.com)
 
 ---
