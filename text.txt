@@ -1,0 +1,23 @@
+telegram_ai_assistant/
+│
+├── main.py                # Entry point; runs the bot
+├── ai_core.py             # Your chat_with_model function
+├── user_data.json         # Stores user info (name, preferences, history)
+├── requirements.txt       # Python dependencies
+├──telegram.py             # python controller for telegram bot --- might have for whatsapp too(these would work in it own separte subprocerss in the structure )
+├── utils/
+│   ├── expense_tracker.py # Functions to log and summarize expenses
+│   ├── reminders.py       # Functions to set reminders and notifications
+│   └── news_fetcher.py    # Functions to fetch personalized news
+└── config.py              # API keys, constants, bot settings
+=------------
+"8185676511": {
+        "step": "registered",
+        "name": "Abasiekeme Emmanuel Hanson",
+        "nickname": "darkside",
+        "email": "hansonabasiekeme2@gmail.com",
+        "password": "633768ebec57a147306541207813aac9a3da2720105960106f5e80d271998a82",
+        "preferences": [
+            "Tech"
+        ]
+    }
